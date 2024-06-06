@@ -29,10 +29,10 @@ https://app.roboflow.com/dpp/cigarette-detection-bow3d/browse?queryText=&pageSiz
 **Демонстрация**
 
 <video width="600" controls>
-  <source src="https://www.example.com/path/to/video.mp4" type="video/mp4">
+  <source src="[https://github.com/AnnVarlamova/diploma/blob/main/demo.mp4]" type="video/mp4">
 </video>
 
 **Алгоритм**
-
-
+![Alg Screenshot](https://github.com/AnnVarlamova/diploma/blob/main/alg.png)
+![App Screenshot](https://github.com/AnnVarlamova/diploma/blob/main/app.png)
 
